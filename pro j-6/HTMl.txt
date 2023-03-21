@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies Page</title>
+    <link rel="stylesheet" type="text/css" href="index3.css">
+
+</head>
+<body>
+    <h1>Movies.Net</h1>
+    
+    <p>
+        Movies download Mp4 Movies Download English HD Movies Download English 20p HD 1080p HD All English Movies download.
+    </p>
+
+    <h2>Movies Latest Updates</h2>
+
+    <ul>
+        <li>John Wick Chapter 4</li>
+        <li>Ant-Man and the Wasp</li>
+        <li>Fast X</li>
+        <li>The Marvels</li>
+        <li>The Flash</li>
+        <li>Faraway</li>
+        <li>Creed III</li>
+        <li>The Nun 2</li>
+        <li>Plane</li>
+        <li>Missing</li>
+
+    </ul>
+
+    <h2>Movies Downloads</h2>
+    <ul>
+        <li>Hollywood 2023 Movies</li>
+        <li>Hollywood 2022 Movies</li>
+        <li>Hollywood 2021 Movies</li>
+        <li>Hollywood 2020 Movies</li>
+        <li>Hollywood 2019 Movies</li>
+        <li>Hollywood 2018 Movies</li>
+        <li>Hollywood 2017 Movies</li>
+        <li>Hollywood 2016 Movies</li>
+        <li>Hollywood Movies Collection</li>
+        <li>Hollywood Mobile Movies</li>
+
+    </ul>
+
+    <h3>
+        Page Tags:
+    </h3>
+    <p>
+    Movies 2023 Movies Download Movies Eng HD Movies Download,Movies 1080p 720p HD Movies Download Movies.Mobi Movies 2023 Movie Movies Download Eng Latest Movies Download Isaimini Movies Download Isaimini.com.
+    </p>
+
+    <div>
+       <h4><a href="#">HOME</a></h4>
+    </div>
+
+
+</body>
+</html>

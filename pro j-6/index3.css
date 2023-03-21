@@ -1,0 +1,34 @@
+h1{
+    color: black;
+    padding-left: 45%;
+}
+body{
+    background-color: darkslategrey;
+}
+p{
+    background-color: floralwhite;
+    border-radius: 2px;
+}
+h2{
+    color:rgb(42, 14, 109);
+    padding-left: 42%;
+    background-color: greenyellow;
+    border-radius: 10px;
+    border-bottom: dotted;
+    border-top: dotted;
+    border-left: dotted;
+    border-right: dotted;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color:blue;
+
+}
+a:active{
+    color: green;
+}
+
+
